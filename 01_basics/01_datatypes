@@ -1,0 +1,20 @@
+"use strict"; // treat all JS as newer version of JS by default
+
+// alert (3+3) // we are using node.js and not browser
+
+let age = 44
+console.log(age);
+
+// number => 2 to the power of 52
+// bigInt
+// boolean => true/false
+// string =>""
+// null => standlone value
+// undefined=> 
+// symbol => unique
+
+
+// object
+
+console.log(typeof age);
+
