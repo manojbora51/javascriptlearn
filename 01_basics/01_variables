@@ -1,0 +1,16 @@
+const name = "Manoj"
+
+let accountId = "13569"
+
+var accountCity = "Noida"
+
+//console.log(name)
+//name = Dhairya
+/*
+prefer not to use var because of issues in blocks scope and functional scope
+
+*/
+
+accountCity = "Delhi"
+
+console.log(accountCity)
